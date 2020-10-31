@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Desafio 52 Semanas</string>
+
+    <!--    main-->
+    <string name="main_no_target_label">Nenhum objetivo cadastrado até o momento,que tal iniciarmos um <b>agora mesmo?</b></string>
+    <!--main-->
 </resources>
