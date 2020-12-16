@@ -10,13 +10,15 @@
         android:id="@+id/toobar"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:background="@color/design_default_color_primary"
+        android:background="@color/BackgroudColorView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:navigationIcon="@drawable/ic_arrow_back_24"
         app:title="@string/new_target_title"
-        app:titleTextColor="@color/toobarColorTitlehite"></com.google.android.material.appbar.MaterialToolbar>
+        app:titleTextColor="@color/toobarColorTitlehite">
+
+    </com.google.android.material.appbar.MaterialToolbar>
 
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/dcvTargentCard"
